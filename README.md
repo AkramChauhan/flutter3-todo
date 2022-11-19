@@ -9,10 +9,7 @@ A Simple todo app to learn flutter3.
 3. Works with Android + iOS
 
 ## Screens
-<img width="361" alt="image" src="https://user-images.githubusercontent.com/13075784/202876116-91bd1621-8a2b-497b-98d5-dfea04eba021.png">
-<img width="360" alt="image" src="https://user-images.githubusercontent.com/13075784/202876133-43c335e6-3f55-45b7-9fd0-838a34b6e768.png">
-<img width="359" alt="image" src="https://user-images.githubusercontent.com/13075784/202876153-85a8c741-b6b5-4aa2-98f8-229ac416c90b.png">
-<img width="358" alt="image" src="https://user-images.githubusercontent.com/13075784/202876169-45c9d871-388f-4feb-af1b-f9bccdcf7381.png">
+![image](https://user-images.githubusercontent.com/13075784/202876213-00ed078e-6ab8-4a77-8a66-79fbfd586bc8.png)
 
 
 ## Want more?
